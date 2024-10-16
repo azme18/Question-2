@@ -1,0 +1,18 @@
+/* src/index.css */
+
+/* Add any custom styles below */
+.bg-primary {
+  background-color: #3b82f6; /* Tailwind's blue-500 */
+}
+
+.card {
+  border-radius: 0.5rem; /* Rounded corners */
+}
+
+.card-body {
+  padding: 1rem;
+}
+
+.card-actions {
+  margin-top: 1rem;
+}
